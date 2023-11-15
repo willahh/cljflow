@@ -4,3 +4,6 @@
 .DS_Store
 classes
 node_modules
+.cpcache
+bundle.js
+/out/
